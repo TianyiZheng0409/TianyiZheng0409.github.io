@@ -12,7 +12,6 @@
 - 💻  I work using:
   [![GitHub](http://118.178.232.152:8001/blogs/svg/github.svg)]()
 
-
  - visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=TianyiZheng0409&color=5865f2)
 ### My Skill Set
 <table><tr><td valign="top" width="50%">
@@ -33,3 +32,5 @@
 <img style="margin: 10px" src="http://118.178.232.152:8001/blogs/svg/mysql_logo.svg" alt="mysql" height="50" />
 <img style="margin: 10px" src="http://118.178.232.152:8001/blogs/svg/node_logo.svg" alt="Node.js" height="50" />
 </div>
+
+！[头像](image/头像.jpg)
